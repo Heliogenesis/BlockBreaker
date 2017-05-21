@@ -42,11 +42,11 @@ public class Ball : MonoBehaviour {
         Vector2 tweak;
         if (collision.gameObject.isStatic)
         {
-            tweak = new Vector2(Random.Range(0f, 1f), Random.Range(0f, 0.2f));
+            tweak = new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f));
         } 
         else
         {
-            tweak = new Vector2(Random.Range(-.5f, 0.5f), Random.Range(0f, .2f));
+            tweak = new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f));
         }
         
 
