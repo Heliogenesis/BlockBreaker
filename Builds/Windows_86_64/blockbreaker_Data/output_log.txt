@@ -1,0 +1,74 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     928 MB
+    Driver:   10.18.10.4303
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+Platform assembly: C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jared\Documents\Unity\Udemy\4 - Block Breaker\Builds\Windows_86_64\blockbreaker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.161417 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.326979 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.690249 ms (FindLiveObjects: 0.100423 ms CreateObjectMapping: 0.022033 ms MarkObjects: 0.522877 ms  DeleteObjects: 0.042372 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.826688 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 324.
+Total: 0.533894 ms (FindLiveObjects: 0.079660 ms CreateObjectMapping: 0.022033 ms MarkObjects: 0.324997 ms  DeleteObjects: 0.106355 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.195754 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.567792 ms (FindLiveObjects: 0.083473 ms CreateObjectMapping: 0.022457 ms MarkObjects: 0.417369 ms  DeleteObjects: 0.042372 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.727113 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.638978 ms (FindLiveObjects: 0.098728 ms CreateObjectMapping: 0.023728 ms MarkObjects: 0.463979 ms  DeleteObjects: 0.049999 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.852536 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 324.
+Total: 0.924145 ms (FindLiveObjects: 0.136439 ms CreateObjectMapping: 0.028389 ms MarkObjects: 0.565250 ms  DeleteObjects: 0.189829 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.672029 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.542368 ms (FindLiveObjects: 0.083050 ms CreateObjectMapping: 0.024152 ms MarkObjects: 0.396183 ms  DeleteObjects: 0.036864 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.908044 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.588978 ms (FindLiveObjects: 0.095338 ms CreateObjectMapping: 0.022033 ms MarkObjects: 0.419488 ms  DeleteObjects: 0.049575 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 12f4 -> priority: 1 
+  Thread -> id: 1c4c -> priority: 1 

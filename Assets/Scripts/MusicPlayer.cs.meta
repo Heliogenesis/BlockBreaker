@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aed8989ed4f375c4392a0d95d1ec7c64
+timeCreated: 1495152896
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - menuMusic: {fileID: 8300000, guid: 1359aae39613d8b4797487785c448b9c, type: 3}
+  - level1Music: {instanceID: 0}
+  - level2Music: {instanceID: 0}
+  - level3Music: {instanceID: 0}
+  - source: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
